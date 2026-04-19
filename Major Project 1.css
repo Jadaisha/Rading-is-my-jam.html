@@ -11,6 +11,12 @@
     max-width: 100%;
     height: auto;
 }
+.img{
+    img {
+  max-width: 100%;
+  height: auto;
+}
+
 
 .main{
     width: 100%;
